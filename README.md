@@ -41,7 +41,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/stock-dashboard.git
+git clone https://github.com/tushant687/tushant687-Real-Time-Stock-Market-Dashboard.git 
 cd stock-dashboard
 Install Dependencies
 
